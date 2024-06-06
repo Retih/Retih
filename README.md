@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi! I'm Ivan, juniour Unity Developer.
 
-<!--
-**Retih/Retih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----About me----
 
-Here are some ideas to get you started:
+Working with c# and Unity about 3 years
+I'm 18 years old
+Already worked with another team
+Got 1 mobile project
+A purposeful workaholic :>
+----My abilities----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python Telegram bots
+Python Discord bots
+Websites, HTML/CSS/JS/PHP
+A little java Forge Modding
+Unity games PC/Mobile
+Can do a medium Blender models
+----My contacts----
+
+Discord: retiw
+Vk: https://vk.com/sirizis
+Gmail: limeshot88@gmail.com
+Be nice to work together!
